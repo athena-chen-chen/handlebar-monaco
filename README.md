@@ -1,2 +1,2 @@
-# handlebar-validation
-Validate handle bar variables.
+# handlebar-validation and auto complete in monaco-editor
+Could not be directly use.
